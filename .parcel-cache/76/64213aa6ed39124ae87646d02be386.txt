@@ -1,0 +1,11 @@
+10
+24E:\Record\Queue demo\src132680186075153154 1
+34E:\Record\Queue demo\src\style.css132680196431774786 0
+25E:\Record\Queue demo\dist132680203279221483 1
+35E:\Record\Queue demo\src\index.html132680195520704772 0
+43E:\Record\Queue demo\dist\index.bd78eeec.js132680203279121748 0
+32E:\Record\Queue demo\src\main.js132680203274303009 0
+47E:\Record\Queue demo\dist\index.bd78eeec.js.map132680203279171616 0
+48E:\Record\Queue demo\dist\index.de60a1d7.css.map132680203279181585 0
+44E:\Record\Queue demo\dist\index.de60a1d7.css132680203279121748 0
+36E:\Record\Queue demo\dist\index.html132680203279111777 0

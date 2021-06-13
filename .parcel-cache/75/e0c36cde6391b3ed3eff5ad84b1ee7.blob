@@ -1,0 +1,12 @@
+const divScreen = document.querySelector('#screen')
+const btnCreateNumber = document.querySelector('createNumber')
+const btnCallNumber = document.querySelector('callNumber')
+const spanNumber = document.querySelector('#newNumber')
+const spanQueue = document.querySelector('#queue')
+
+let n = 0
+
+btnCreateNumber.onclick = () =>{
+    n += 1
+    spanNewNumber.innerText = n
+}
